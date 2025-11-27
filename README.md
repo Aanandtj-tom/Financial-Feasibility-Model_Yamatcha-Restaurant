@@ -1,5 +1,3 @@
-# Financial-Feasibility-Model_Yamatcha-Restaurant
-Excel-based financial feasibility model for a Michelin-style restaurant concept
 # Yamatcha Restaurant – Financial Feasibility Model  
 **Excel-based financial model for evaluating the feasibility of launching a Michelin-inspired restaurant in Chennai under a franchise agreement.**
 
