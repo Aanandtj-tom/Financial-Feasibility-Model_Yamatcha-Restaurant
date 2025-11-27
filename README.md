@@ -1,11 +1,11 @@
 # Financial-Feasibility-Model_Yamatcha-Restaurant
 Excel-based financial feasibility model for a Michelin-style restaurant concept
-# 🍽️ Yamatcha Restaurant – Financial Feasibility Model  
+# Yamatcha Restaurant – Financial Feasibility Model  
 **Excel-based financial model for evaluating the feasibility of launching a Michelin-inspired restaurant in Chennai under a franchise agreement.**
 
 ---
 
-## 📌 Overview
+## Overview
 This project is a full financial feasibility study built using Microsoft Excel.  
 It evaluates whether opening a **Yamatcha** outlet in Chennai is financially viable for **Restro & Club Pvt. Ltd.** before entering a sub-franchise agreement with **AK Hospitality**.
 
@@ -20,11 +20,11 @@ It evaluates whether opening a **Yamatcha** outlet in Chennai is financially via
   - Profit & Loss  
   - Balance Sheet  
   - Cash Flow Statement  
-- 🔗 Fully structured Excel model using advanced formulas and references
+- Fully structured Excel model using advanced formulas and references
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 - Microsoft Excel  
 - Advanced formulas (SUMIFS, INDEX-MATCH, dynamic ranges)  
 - Linked worksheets and structured references  
@@ -38,7 +38,7 @@ To determine the financial feasibility and profitability of establishing a Yamat
 ---
 
 ## Project Files
-- **Yamatcha Financial Model.xlsx**  
+- **Financial Modeling_Yamatcha.xlsx**  
 - Documentation & screenshots included in the repository
 
 
