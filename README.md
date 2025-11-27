@@ -39,7 +39,7 @@ To determine the financial feasibility and profitability of establishing a Yamat
 
 ## Project Files
 - **Financial Modeling_Yamatcha.xlsx**  
-- Documentation & screenshots included in the repository
+
 
 
 
